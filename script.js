@@ -293,7 +293,7 @@ startScreen.addEventListener('click', async () => {
     typeWriterBio();
   });
 
-  const name = "snow";
+  const name = "(Itz_Me)";
   let nameText = '';
   let nameIndex = 0;
   let isNameDeleting = false;
@@ -518,43 +518,43 @@ startScreen.addEventListener('click', async () => {
   }
 
   homeButton.addEventListener('click', () => {
-    switchTheme('background 1.mp4', backgroundMusic, 'home-theme');
+    switchTheme('assets/background.mp4', backgroundMusic, 'home-theme');
   });
   homeButton.addEventListener('touchstart', (e) => {
     e.preventDefault();
-    switchTheme('background 1.mp4', backgroundMusic, 'home-theme');
+    switchTheme('assets/background.mp4', backgroundMusic, 'home-theme');
   });
 
   hackerButton.addEventListener('click', () => {
-    switchTheme('real.mp4', hackerMusic, 'hacker-theme', hackerOverlay, false);
+    switchTheme('assets/background.mp4', hackerMusic, 'hacker-theme', hackerOverlay, false);
   });
   hackerButton.addEventListener('touchstart', (e) => {
     e.preventDefault();
-    switchTheme('real.mp4', hackerMusic, 'hacker-theme', hackerOverlay, false);
+    switchTheme('assets/background.mp4', hackerMusic, 'hacker-theme', hackerOverlay, false);
   });
 
   rainButton.addEventListener('click', () => {
-    switchTheme('rain_background.mp4', rainMusic, 'rain-theme', snowOverlay, true);
+    switchTheme('assets/background.mp4', rainMusic, 'rain-theme', snowOverlay, true);
   });
   rainButton.addEventListener('touchstart', (e) => {
     e.preventDefault();
-    switchTheme('rain_background.mp4', rainMusic, 'rain-theme', snowOverlay, true);
+    switchTheme('assets/background.mp4', rainMusic, 'rain-theme', snowOverlay, true);
   });
 
   animeButton.addEventListener('click', () => {
-    switchTheme('anime_background.mp4', animeMusic, 'anime-theme');
+    switchTheme('assets/background.mp4', animeMusic, 'anime-theme');
   });
   animeButton.addEventListener('touchstart', (e) => {
     e.preventDefault();
-    switchTheme('anime_background.mp4', animeMusic, 'anime-theme');
+    switchTheme('assets/background.mp4', animeMusic, 'anime-theme');
   });
 
   carButton.addEventListener('click', () => {
-    switchTheme('hacker_background.mp4', carMusic, 'car-theme');
+    switchTheme('assets/background.mp4', carMusic, 'car-theme');
   });
   carButton.addEventListener('touchstart', (e) => {
     e.preventDefault();
-    switchTheme('hacker_background.mp4', carMusic, 'car-theme');
+    switchTheme('assets/background.mp4', carMusic, 'car-theme');
   });
 
   function handleTilt(e, element) {
