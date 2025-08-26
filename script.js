@@ -680,9 +680,9 @@ startScreen.addEventListener('click', async () => {
             { x: 100, opacity: 0 },
             { x: 0, opacity: 1, duration: 0.5, ease: 'power2.out' }
           );
-          gsap.to(pythonBar, { width: '67%', duration: 2, ease: 'power2.out' });
-          gsap.to(htmlBar, { width: '45%', duration: 2, ease: 'power2.out' });
-          gsap.to(golandBar, { width: '30%', duration: 2, ease: 'power2.out' });
+          gsap.to(pythonBar, { width: '99%', duration: 2, ease: 'power2.out' });
+          gsap.to(htmlBar, { width: '95%', duration: 2, ease: 'power2.out' });
+          gsap.to(golandBar, { width: '70%', duration: 2, ease: 'power2.out' });
         }
       });
       resultsHint.classList.remove('hidden');
@@ -807,4 +807,5 @@ startScreen.addEventListener('click', async () => {
   // Call the function initially and set interval
   fetchDiscordActivity();
   setInterval(fetchDiscordActivity, 15000); // update every 15s
+
 });
