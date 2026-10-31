@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Vedant Yadav — student and developer</title>
+  <desc id="desc">A dark blue gradient profile banner with the name Vedant Yadav and the words Student, Developer, Builder.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080d18"/>
+      <stop offset="55%" stop-color="#101d34"/>
+      <stop offset="100%" stop-color="#123b70"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#8bdbff"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#2f81f7" stop-opacity=".34"/>
+      <stop offset="100%" stop-color="#2f81f7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#a8c7fa" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <circle cx="1030" cy="95" r="260" fill="url(#glow)"/>
+  <circle cx="1050" cy="145" r="128" fill="none" stroke="#8bdbff" stroke-opacity=".18" stroke-width="1.5"/>
+  <circle cx="1050" cy="145" r="92" fill="none" stroke="#8bdbff" stroke-opacity=".24" stroke-width="1.5"/>
+  <circle cx="1050" cy="145" r="56" fill="none" stroke="#8bdbff" stroke-opacity=".32" stroke-width="1.5"/>
+  <path d="M900 235L1130 5M950 285L1180 55" stroke="#8bdbff" stroke-opacity=".14" stroke-width="2"/>
+  <rect x="66" y="56" width="7" height="185" rx="3.5" fill="url(#accent)"/>
+  <text x="102" y="105" fill="#8bdbff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="4">ITZ_ME  /  INDIA</text>
+  <text x="98" y="174" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="750" letter-spacing="-1.5">Vedant Yadav</text>
+  <text x="102" y="216" fill="#c7d7ef" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" letter-spacing="1.2">STUDENT  •  DEVELOPER  •  BUILDER</text>
+  <g transform="translate(895 112)">
+    <rect width="225" height="70" rx="13" fill="#0b1424" fill-opacity=".72" stroke="#8bdbff" stroke-opacity=".35"/>
+    <text x="22" y="28" fill="#8bdbff" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">CURRENT FOCUS</text>
+    <text x="22" y="51" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">CLASS 12 · PCM</text>
+  </g>
+</svg>
