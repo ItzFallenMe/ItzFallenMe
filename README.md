@@ -104,7 +104,7 @@ I'm a **17-year-old student in Class 12 (PCM)** from India.
 
 <!-- GITHUB ACTIVITY -->
 <div align="center">
-  <a href="https://github.com/ItzFallenMe/"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzFallenMe&bg_color=0E1118&color=8AB4F8&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution graph"/></a>
+  <a href="https://github.com/ItzFallenMe/"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzFallenMe&theme=github-compact" width="95%" alt="Contribution graph"/></a>
 </div>
 
 <div align="center">
