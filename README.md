@@ -3,7 +3,7 @@
 <!-- HEADER -->
 <br><br>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=1&pause=99999&color=E6EDF3&center=true&vCenter=true&repeat=false&width=600&height=30&lines=Heya+folks%2C+I'm+Itz_Me!" alt="Heya folks, I'm Itz_Me!" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=1&pause=99999&color=E6EDF3&center=true&vCenter=true&repeat=false&width=600&height=30&lines=Heya+folks%2C+I'm+(Itz_Me)!" alt="Heya folks, I'm (Itz_Me)!" /></a>
 </div>
 <div align="center">
   <img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=7C6FF0&height=4&section=header" alt="" />
@@ -13,9 +13,9 @@
 </div>
 
 <!-- ABOUT ME -->
-## <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="Waving hand"/></a> Nice to meet you — I'm Itz_Me, aka *ItzFallenMe*
+## <a href="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="Waving hand"/></a> Nice to meet you — I'm (Itz_Me), aka *ItzFallenMe*
 
-<img align="right" src="https://github.com/ItzFallenMe/ItzFallenMe/blob/main/assets/profile.jfif?raw=true" width="245" alt="Itz_Me profile picture"/>
+<img align="right" src="https://github.com/ItzFallenMe/ItzFallenMe/blob/main/assets/profile.jfif?raw=true" width="245" alt="(Itz_Me) profile picture"/>
 
 <div align="left">
 
