@@ -1,4 +1,4 @@
-<!-- Profile: Itz_Me / ItzFallenMe. Artwork is self-hosted in /assets. -->
+<!-- Profile: Itz_Me / ItzFallenMe -->
 
 <div align="center">
 
@@ -11,9 +11,7 @@
 
 </div>
 
-<img src="./assets/section-divider.svg" width="100%" alt="" />
-
-## whoami
+## about me
 
 Hey! I'm **Itz_Me**, also known as **ItzFallenMe**.
 
@@ -21,83 +19,50 @@ I'm a **17-year-old Class 12 student (PCM)** from India. Outside academics, I en
 
 - Currently balancing **Physics, Chemistry, Mathematics** and development.
 - Building Android apps, web projects, utilities, and game-related experiments.
+- **Daily driver:** Arch Linux.
 - Learning more about software design, backend systems, and practical AI integrations.
-- I use AI tools where they help, but I'm still learning — definitely not claiming to be an AI expert.
+- I use AI tools where they help, but I'm still learning — not claiming to be an AI expert.
 
 > Small progress, consistent commits, better projects.
 
-## what I use
+## tech stack
 
-<img src="./assets/tech-stack.svg" width="100%" alt="Languages, mobile development, web and backend tools, and developer tools" />
-
-<img src="./assets/section-divider.svg" width="100%" alt="" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,dart,ts,js,python,androidstudio,flutter,react,nextjs,nodejs,express,git,github,arch,linux,vscode" alt="Technologies and tools" />
+</p>
 
 ## featured projects
 
-<div align="center">
-
-<a href="https://github.com/ItzFallenMe/KatMusic"><img src="./assets/project-katmusic.svg" width="100%" alt="KatMusic — native Android YouTube Music client" /></a>
-
-A native Android client for YouTube Music, with offline downloads, word-by-word lyrics, a parametric equaliser, and an automix engine.
-
-<sub><b>Kotlin · Jetpack Compose · Android</b> | <a href="https://github.com/ItzFallenMe/KatMusic">Repository</a></sub>
-
-<br/>
-
-<a href="https://github.com/ItzFallenMe/Zed"><img src="./assets/project-zed.svg" width="100%" alt="Zed — voice-first Android assistant" /></a>
-
-A voice-first Android phone assistant with a personality, built to understand requests and interact with the device.
-
-<sub><b>Android · Voice interaction · Assistant tools</b> | <a href="https://github.com/ItzFallenMe/Zed">Repository</a></sub>
-
-<br/>
-
-<a href="https://github.com/ItzFallenMe/AniFox"><img src="./assets/project-anifox.svg" width="100%" alt="AniFox — anime, movies and series app" /></a>
-
-An Android entertainment app for discovering anime, movies, and series, with a personal library and playback features.
-
-<sub><b>Android · Media · App development</b> | <a href="https://github.com/ItzFallenMe/AniFox">Repository</a></sub>
-
-<br/>
-
-<a href="https://github.com/ItzFallenMe/Pokeventure"><img src="./assets/project-pokeventure.svg" width="100%" alt="Pokéventure — mobile collection RPG" /></a>
-
-A mobile collection RPG inspired by Pokétwo, with Pokémon collection, training, exploration, and battles powered by the Pokémon Showdown simulator.
-
-<sub><b>Flutter · Dart · TypeScript · Node.js</b> | <a href="https://github.com/ItzFallenMe/Pokeventure">Repository</a></sub>
-
-</div>
-
-<img src="./assets/section-divider.svg" width="100%" alt="" />
+| Project | About |
+|---|---|
+| [**KatMusic**](https://github.com/ItzFallenMe/KatMusic) | Native Android YouTube Music client with offline downloads, synced lyrics, an equaliser and automix. |
+| [**Zed**](https://github.com/ItzFallenMe/Zed) | Voice-first Android phone assistant. |
+| [**AniFox**](https://github.com/ItzFallenMe/AniFox) | Android entertainment app for anime, movies and series. |
+| [**Pokéventure**](https://github.com/ItzFallenMe/Pokeventure) | Mobile collection RPG with exploration, Pokémon training and battles. |
 
 ## team
 
-<div align="center">
-<a href="https://github.com/Arct-Development"><img src="./assets/arct-development.svg" width="100%" alt="Arct-Development — projects, experiments and building together" /></a>
-</div>
+**[Arct-Development](https://github.com/Arct-Development)**
 
-## github
+## GitHub stats
 
 <div align="center">
 
-<a href="https://github.com/ItzFallenMe"><img src="https://github-readme-stats.vercel.app/api?username=ItzFallenMe&show_icons=true&hide_border=true&bg_color=0d1524&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub statistics" /></a>
-<a href="https://github.com/ItzFallenMe"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzFallenMe&layout=compact&hide_border=true&bg_color=0d1524&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="165" alt="Most used languages" /></a>
-
-<br/>
-
-<a href="https://github.com/ItzFallenMe?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore%20all-161b22?style=for-the-badge&logo=github" alt="Explore all repositories" /></a>
-<a href="https://github.com/ItzFallenMe?tab=stars"><img src="https://img.shields.io/badge/Interests-Open%20Source-161b22?style=for-the-badge&logo=github" alt="Open source interests" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=ItzFallenMe&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzFallenMe&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="165" alt="Most used languages" />
 
 </div>
 
-<img src="./assets/section-divider.svg" width="100%" alt="" />
+## inspiration
+
+Profile inspiration: **[bewafa/bewafa](https://github.com/bewafa/bewafa)**
+
+---
 
 <div align="center">
 
-**Thanks for visiting my profile!**
+**Thanks for visiting!**
 
 *Keep learning. Keep building. Keep improving.*
-
-<a href="https://github.com/ItzFallenMe">Itz_Me / ItzFallenMe</a>
 
 </div>
